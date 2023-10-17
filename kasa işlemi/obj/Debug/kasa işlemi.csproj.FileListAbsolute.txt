@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa_işlemi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa_işlemi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\bin\Debug\kasa işlemi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\bin\Debug\kasa işlemi.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\bin\Debug\kasa işlemi.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\kasa işlemi\kasa işlemi\obj\Debug\kasa işlemi.pdb
